@@ -10,7 +10,7 @@ const giftBox = document.getElementById('down-box');
 const otherBox = document.getElementById('other-box');
 const counterBox = document.getElementById('count-box');
 
-let countDownDate = new Date("Sept 15, 2023 18:50:00").getTime();
+let countDownDate = new Date("Sept 16, 2023 00:00:00").getTime();
 
 let x = setInterval(function() {
 
