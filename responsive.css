@@ -1,0 +1,82 @@
+@media only screen and (min-width: 568px) {
+    body {
+        padding: 45px;
+    }
+    h1 {
+       font-size: 75px;
+        margin: 20px;
+    }
+    .sub-box {
+        border-width: 10px;
+        margin: 15px;
+        padding: 15px 20px;
+        border-radius: 25px;
+        font-size: 73px;
+    }
+    footer {
+        font-size: 40px;
+        padding: 5px;
+    }
+    #down-box {
+        font-size: 55px;
+        margin: 15px;
+        margin-bottom: 30px;
+    }    
+    #down-box span {
+        font-size: 70px;
+        padding: 25px;
+        margin: 25px;
+        border-radius: 50px;
+        border: 10px solid;
+    }
+    #down-box p {
+        font-size: 20px;
+        padding: 25px 0;
+    }
+    #down-box iframe {
+        border-radius: 40px;
+        box-shadow: 0 0 40px black;
+        height: 8em;
+    }
+    #bigSecTimer {
+        font-size: 700px;
+        text-shadow: 0 0 70px #6653FF;
+    }
+    #other-box {
+        font-size: 28px;
+    }
+    #rotImg img {
+        border: 10px solid black;
+        box-shadow: 0 0 50px black;
+    }
+    #first-pg-link{
+        font-size: 5em;
+    }
+}
+@keyframes HBD-Animation {
+    0% {
+        border-color: #303952;
+        box-shadow: 0 0 120px #303952;
+        color: #ff5e57; 
+    }
+    25% {
+        border-color: #4b6584;
+        box-shadow: 0 0 120px #4b6584;
+        color: #4cd137; 
+    }
+    50% {
+        border-color: #b71540;
+        box-shadow: 0 0 120px #b71540;
+        color: #575fcf; 
+    }
+    75% {
+        border-color: #6F1E51;
+        box-shadow: 0 0 120px #6F1E51;
+        color: #fd9644; 
+    }
+    100% {
+        border-color: #1B1464;
+        box-shadow: 0 0 120px #1B1464;
+        color: #cf6a87;
+    }
+}
