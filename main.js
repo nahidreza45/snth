@@ -48,6 +48,7 @@ function countDown(){
             giftBox.style.display = "block" ;
             bigSecTimer.style.display = "none";
        }
-    }, 1000);
-}
+    }, 1000); 
+} 
 
+*/
