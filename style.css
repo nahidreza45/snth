@@ -45,9 +45,10 @@ footer {
     background: white;
     padding: 5px;
     color: black;
+    font-size: 30px;
 }
 #other-box{
-    font-size: 19px;
+    font-size: 25px;
 }
 #down-box {
     font-size: 25px;
