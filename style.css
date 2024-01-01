@@ -2,13 +2,13 @@
 *{
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
 }
 body {
     text-align: center;
     padding: 20px;
     font-family: Courier;
-    background: black;
+    background: white;
 }
 #count-box {
     display: block;
@@ -44,7 +44,7 @@ footer {
     display: block;
     background: black;
     padding: 5px;
-    color: white;
+    color: black;
 }
 #other-box{
     font-size: 19px;
