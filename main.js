@@ -1,5 +1,5 @@
 
-const valueOfSec = document.getElementById('sec');
+/* const valueOfSec = document.getElementById('sec');
 const valueOfMin = document.getElementById('min');
 const valueOfHour = document.getElementById('hour');
 const valueOfDay = document.getElementById('day');
