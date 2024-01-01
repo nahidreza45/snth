@@ -1,4 +1,4 @@
-/*
+
 *{
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ footer {
     left: 0;
     right: 0;
     display: block;
-    background: black;
+    background: white;
     padding: 5px;
     color: black;
 }
@@ -172,4 +172,3 @@ img{
     }
 }
 
-*/
