@@ -18,16 +18,18 @@ body {
 footer {
     color: black;
     position: fixed;
-    bottom: 25px;
+    bottom: 0;
     left: 0;
     right: 0;
     display: block;
     background: white;
-    padding: 5px;
     color: black;
     font-size:2.5em;
 
 }
 #other-box {
     font-size: 2.5em;
+}
+#movie {
+    width: 25%;
 }
