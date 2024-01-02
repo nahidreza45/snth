@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     color: black;
+    text-align: center;
 }
 body {
     text-align: center;
@@ -31,5 +32,6 @@ footer {
     font-size: 2.5em;
 }
 #movie {
-    width: 25%;
+    width: 60%;
+    display: inline-block;
 }
