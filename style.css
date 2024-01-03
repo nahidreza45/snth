@@ -41,9 +41,11 @@ footer {
     margin-top: 15px;
     border-radius: 10px;
 }
-#circle{
-    width: 90%;
+.circle-link{
+    font-size: 1.5em;
+    margin: 5px;
+}
+.circle-link a {
     display: inline-block;
     margin-top: 15px;
-    height: 1000px;
 }
