@@ -41,3 +41,9 @@ footer {
     margin-top: 15px;
     border-radius: 10px;
 }
+#circle{
+    width: 90%;
+    display: inline-block;
+    margin-top: 15px;
+    height: 1000px;
+}
