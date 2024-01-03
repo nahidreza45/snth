@@ -10,7 +10,6 @@ body {
     padding: 2%;
     font-family: Courier, monospace;
     background: white;
-    max-width: 720px;
     left: 0;
     right: 0;
     display: block;
@@ -37,6 +36,6 @@ footer {
     font-size: 2.5em;
 }
 #movie {
-    width: 90%;
+    width: 86%;
     display: inline-block;
 }
