@@ -42,10 +42,14 @@ footer {
     border-radius: 10px;
 }
 .circle-link{
-    font-size: 1.5em;
+    font-size: 2em;
     margin: 5px;
 }
 .circle-link a {
     display: inline-block;
     margin-top: 15px;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
 }
